@@ -1,0 +1,12 @@
+{
+  "name":"毎日の5つ",
+  "short_name":"毎日の5つ",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f7f4ef",
+  "theme_color":"#f7f4ef",
+  "icons":[
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
